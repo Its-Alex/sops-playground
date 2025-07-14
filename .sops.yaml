@@ -1,0 +1,4 @@
+default_keys: &default_keys age1enxq2hr294tf3hwgcr0ltlxlcm4az49md6d5y50fxacnskytpc9sdr4yv6
+
+creation_rules:
+  - age: *default_keys

@@ -1,0 +1,6 @@
+[tools]
+sops = '3.10.2'
+age = '1.2.1'
+
+[env]
+SOPS_AGE_KEY_FILE = { value = "{{env.PWD}}/keys/user.txt" }
